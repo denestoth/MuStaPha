@@ -19,3 +19,8 @@ MOdular SCraper Written In Python
 		* etc
 * template to wire things together
 * configuration framewrok for rapid wiring
+
+## Notes
+* for framework use
+	* template method
+	* injection
