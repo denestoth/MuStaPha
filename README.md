@@ -1,5 +1,5 @@
-# moscwip
-MOdular SCraper Written In Python
+# MuStaPha
+MuStaPha - Modular Scraper written in Python
 
 ## ToDo list
 * modules
